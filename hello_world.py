@@ -1,2 +1,2 @@
 print ("Hello world!")
-print ("This is branch dev")
+print ("This is branch master")
